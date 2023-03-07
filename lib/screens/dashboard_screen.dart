@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:page_transition/page_transition.dart';
-import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 
-import '../data.dart';
 import '../widgets/my_colors.dart';
 import '../widgets/navigation_drawer.dart';
+import '../models/data.dart';
 import 'demo_screen.dart';
 import 'detail_screen.dart';
 

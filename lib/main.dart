@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:shoe_hub/screens/intro_screen.dart';
 
 import 'screens/dashboard_screen.dart';
-
 
 void main() {
   runApp(const MyApp());
